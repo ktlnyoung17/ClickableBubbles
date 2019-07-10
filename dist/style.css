@@ -1,11 +1,5 @@
 body {
 	background: #1f1f1f;
-	color: #333;
-	font: 100% Lato, Arial, Sans Serif;
-	height: 100vh;
-	margin: 0;
-	padding: 0;
-	overflow-x: hidden;
 }
  a.bubblex1 {
 font-size: 20px;
@@ -229,6 +223,7 @@ font-size: 20px;
 	-moz-transform: scale(0.3);
 	transform: scale(0.3);
 }
+
 .button5 {
     -webkit-animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
 	-moz-animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
